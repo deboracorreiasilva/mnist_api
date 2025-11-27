@@ -1,5 +1,5 @@
 streamlit
 numpy
 Pillow
-tensorflow==2.15.0 
+tensorflow==3.10.0 
 keras
